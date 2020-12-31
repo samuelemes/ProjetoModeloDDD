@@ -1,0 +1,12 @@
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netstandard2.0\ProjetoModeloDDD.Application.deps.json
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netstandard2.0\ProjetoModeloDDD.Application.dll
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netstandard2.0\ProjetoModeloDDD.Application.pdb
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netstandard2.0\ProjetoModeloDDD.Domain.dll
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\netstandard2.0\ProjetoModeloDDD.Domain.pdb
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.AssemblyInfo.cs
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.csproj.CopyComplete
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.dll
+C:\Users\samue\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\netstandard2.0\ProjetoModeloDDD.Application.pdb

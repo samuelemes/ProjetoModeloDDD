@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkPbyj6njJyrTeXuIEuSVQsLL/xedAKaQgdA6+/KLqa1AOYwBL/L2NTUvsoflrZGsFrsLx0KDNN+Eb7IAGJc1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\repos\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
